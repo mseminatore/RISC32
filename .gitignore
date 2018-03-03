@@ -1,52 +1,49 @@
-# Prerequisites
-*.d
-
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
-
-# Linker output
-*.ilk
-*.map
-*.exp
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
+# Files
 *.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
+*.xml
+*.cmd_log
+*.lso
+*.log
 *.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+*.ncd
+*.ngc
+*.ngd
+*.ngr
+*.ngm
+*.bld
+*.bit
+*.xwbt
+*.wcfg
+*.wdb
+*.pad
+*.par
+*.pcf
+*.ptwx
+*.syr
+*.twr
+*.stx
+*.twx
+*.unroutes
+*.ut
+*.xpi
+*.xst
+*.map
+*.mrp
+*.xrpt
+*.html
+*.gise
+*.bgn
+*.drc
+*.zip
+*_core_pad.csv
+*_core_pad.txt
+
+# Project Files
+*.Prj
+
+# Dirs
+_ngo
+_xmsgs
+ipcore_dir
+iseconfig
+xlnx_auto_0_xdb
